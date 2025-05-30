@@ -22,6 +22,8 @@
 ### Os Aiken:
 
 - [Oliver Alan Aiken](/personagens/Oliver.md)
+- [Mathhew Aiken](/personagens/Matthew.md)
+- [Scott Alan Aiken](/personagens/Scott.md)
 
 
 ### Os bonnet:
